@@ -1,5 +1,4 @@
 INDEX VERSION 1.134+C:\Users\ciro\cursos\my-study-java\.metadata\.plugins\org.eclipse.jdt.core
 3303371558.index
 1865797976.index
-3581214835.index
 2119837839.index
